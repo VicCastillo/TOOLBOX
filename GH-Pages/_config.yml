@@ -1,0 +1,14 @@
+modelname   : Model-page-template
+modelcomment: >
+    Template for model pages. 
+baseurl     : /Model-page-template
+devname     : VicCastillo 
+accountname : STEM-Dev
+preurl      : https://github.com/STEM-Dev
+#
+gems:
+  - jekyll-sitemap
+markdown: redcarpet
+exclude:  ['NIL']
+encoding: UTF-8
+
