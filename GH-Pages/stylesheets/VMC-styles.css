@@ -811,7 +811,7 @@ section {
 section #title {
   border: 0;
   outline: none;
-  margin: 0 0 50px 0;
+  margin: 0 0 0px 0;
   padding: 0 0 5px 0;
 }
 section #title h1 {
@@ -820,6 +820,20 @@ section #title h1 {
   font-size: 60px;
   text-align: center;
   line-height: 36px;
+}
+section #title h2 {
+  color: #d7cfbe;
+  font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size: 36px;
+  text-align: center;
+}
+section #title h3 {
+  color: #d7cfbe;
+  font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  text-align: center;
 }
 section #title p {
   color: #d7cfbe;
